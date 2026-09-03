@@ -1,0 +1,449 @@
+{
+  "practice": "Cedar Ridge Family Dentistry",
+  "invented": true,
+  "walk": [
+    "content",
+    "radar",
+    "diligence",
+    "cim",
+    "escrow"
+  ],
+  "traces": {
+    "content": {
+      "title": "Content Engine",
+      "subtitle": "Cedar Ridge is already a listing. This is the desk's weekly seller-side rhythm — same week, same voice.",
+      "thinking": [
+        {
+          "k": "steps",
+          "t": "Topic from the library: when a solo GP should start the transition conversation."
+        },
+        {
+          "k": "reasoning",
+          "t": "Outline first. Principal approves before a draft exists."
+        },
+        {
+          "k": "steps",
+          "t": "Approved outline → full piece → atomize to LinkedIn, email, newsletter teaser."
+        }
+      ],
+      "tools": [
+        "Load voice file",
+        "Draft outline",
+        "Atomize to three channels"
+      ],
+      "tasks": [
+        {
+          "name": "Outline",
+          "meta": "1 page",
+          "status": "done"
+        },
+        {
+          "name": "Principal checkpoint",
+          "meta": "approve before draft",
+          "status": "wait"
+        },
+        {
+          "name": "Blog + social + newsletter",
+          "meta": "from the same piece",
+          "status": "queued"
+        }
+      ],
+      "stream": "Most solo owners wait until they're tired. By then the numbers have already started to slip, and buyers can see it. The better window is two to three years out: production still clean, the associate question still open, the building still an option rather than a scramble.",
+      "insights": [],
+      "table": null,
+      "approval": {
+        "q": "Send this outline to the principal before anyone writes the draft?",
+        "options": [
+          "Yes — hold the draft",
+          "Rewrite the angle",
+          "Skip this week"
+        ],
+        "note": "The system absorbs the rhythm. The point of view stays human."
+      },
+      "rec": null,
+      "artifacts": []
+    },
+    "webinar": {
+      "title": "Webinar pack",
+      "subtitle": "Same Content Engine. A recorded session becomes clips plus written follow-on — one voice file.",
+      "thinking": [
+        {
+          "k": "search",
+          "t": "Transcript with word-level timestamps."
+        },
+        {
+          "k": "reasoning",
+          "t": "Pick 4 standalone moments: hook, number, story, what to do next."
+        },
+        {
+          "k": "coding",
+          "t": "Cut verticals with captions. Draft YouTube title block and a newsletter from the same transcript."
+        }
+      ],
+      "tools": [
+        "Transcribe",
+        "Clip briefs",
+        "Render captions",
+        "Draft newsletter"
+      ],
+      "tasks": [
+        {
+          "name": "Transcript reviewed",
+          "meta": "proper nouns checked",
+          "status": "done"
+        },
+        {
+          "name": "4 clip briefs",
+          "meta": "2–3 min each",
+          "status": "done"
+        },
+        {
+          "name": "YouTube + newsletter",
+          "meta": "waiting on principal",
+          "status": "wait"
+        }
+      ],
+      "stream": "Clip 2 hook: \"If your collections dipped and you told yourself it was a season, it usually wasn't.\" Captions on. Newsletter teaser points back to the full session — not a second essay.",
+      "insights": [],
+      "table": null,
+      "approval": {
+        "q": "Principal signs off on the four hooks before anything publishes?",
+        "options": [
+          "Hold for review",
+          "Drop clip 3",
+          "Publish the cut"
+        ],
+        "note": "Video is the same station as the blog. Not a second product."
+      },
+      "rec": null,
+      "artifacts": []
+    },
+    "radar": {
+      "title": "Seller Origination",
+      "subtitle": "How the next listing shows up. Public signals, ranked. Sample territory — not a live file.",
+      "thinking": [
+        {
+          "k": "search",
+          "t": "License-year band + solo flag + review velocity as a proxy for new patients."
+        },
+        {
+          "k": "reasoning",
+          "t": "A new associate on the masthead is succession already underway — deprioritize, don't mark hot."
+        },
+        {
+          "k": "steps",
+          "t": "Human grades the Verify flags. The job does not decide who you call."
+        }
+      ],
+      "tools": [
+        "License roster",
+        "Review velocity",
+        "Succession screen"
+      ],
+      "tasks": [
+        {
+          "name": "Monthly refresh",
+          "meta": "public sources",
+          "status": "done"
+        },
+        {
+          "name": "Ranked list",
+          "meta": "12 in band",
+          "status": "done"
+        },
+        {
+          "name": "Principal grades HOT",
+          "meta": "human",
+          "status": "wait"
+        }
+      ],
+      "stream": "",
+      "insights": [
+        {
+          "k": "Signal",
+          "v": "Review velocity ≥ 8/mo tracks the $800k+ profile in this vertical."
+        },
+        {
+          "k": "Rule",
+          "v": "Successor visible → not a hot listing lead."
+        }
+      ],
+      "table": {
+        "caption": "This month — sample territory (fictional)",
+        "cols": [
+          "Practice",
+          "Licensed",
+          "Velocity",
+          "Solo",
+          "Flag"
+        ],
+        "rows": [
+          [
+            "Cedar Ridge Family Dentistry",
+            "1988",
+            "11/mo",
+            "Yes",
+            "Call first"
+          ],
+          [
+            "Oakwell Dental",
+            "1991",
+            "9/mo",
+            "Yes",
+            "Call first"
+          ],
+          [
+            "Harbor Street DDS",
+            "1984",
+            "4/mo",
+            "Yes",
+            "Watch"
+          ],
+          [
+            "Northline Family",
+            "1996",
+            "14/mo",
+            "No",
+            "Succession"
+          ],
+          [
+            "Pine Court Dental",
+            "1979",
+            "2/mo",
+            "Yes",
+            "Verify hours"
+          ]
+        ]
+      },
+      "approval": {
+        "q": "Keep Cedar Ridge as Call first? No successor on the site, velocity is in band.",
+        "options": [
+          "Call first",
+          "Watch",
+          "Succession underway"
+        ],
+        "note": "The list is a suggestion. Who you actually want as a client stays human."
+      },
+      "rec": null,
+      "artifacts": []
+    },
+    "diligence": {
+      "title": "Due Diligence",
+      "subtitle": "Cedar Ridge Family Dentistry — sample P&L, tax return, lease. The agent never decides.",
+      "thinking": [
+        {
+          "k": "steps",
+          "t": "Read the source pack. Identify providers. Don't trust the recap sheet yet."
+        },
+        {
+          "k": "reasoning",
+          "t": "Add-backs only where the document supports them. Flag the rest as questions."
+        },
+        {
+          "k": "search",
+          "t": "Lease term vs. stated remaining years. Payroll vs. W-2/1099 mix."
+        }
+      ],
+      "tools": [
+        "Read P&L (3 yr)",
+        "Read tax returns",
+        "Read lease",
+        "Cross-check recap"
+      ],
+      "tasks": [
+        {
+          "name": "Source pack",
+          "meta": "12 files",
+          "status": "done"
+        },
+        {
+          "name": "Provider map",
+          "meta": "1 owner, 0 associates",
+          "status": "done"
+        },
+        {
+          "name": "Add-backs + red flags",
+          "meta": "4 flags",
+          "status": "done"
+        },
+        {
+          "name": "Questions for the doctor",
+          "meta": "11 items",
+          "status": "wait"
+        }
+      ],
+      "stream": "",
+      "insights": [
+        {
+          "k": "Add-back",
+          "v": "Owner auto $14.2k — titled to the practice, personal use noted on the schedule. Ask for the title."
+        },
+        {
+          "k": "Red flag",
+          "v": "Hygiene production down 9% year-over-year with no staffing note. Ask why."
+        },
+        {
+          "k": "Lease",
+          "v": "5 years remaining, 3% bumps, no stated assignment clause in the copy we have. Confirm with counsel."
+        },
+        {
+          "k": "Gap",
+          "v": "Recap shows lab at $41k; invoices in the pack sum to $47.6k. Don't smooth it."
+        }
+      ],
+      "table": null,
+      "approval": {
+        "q": "Send the eleven questions to the doctor before anyone writes a valuation?",
+        "options": [
+          "Send to coordinator",
+          "Hold two flags",
+          "Need more docs"
+        ],
+        "note": "Generate and verify are separate. This pass finds; it does not price."
+      },
+      "rec": null,
+      "artifacts": []
+    },
+    "cim": {
+      "title": "CIM / Listing",
+      "subtitle": "Numbers already signed off by the broker. Narratives and the listing pack — then a branded PDF.",
+      "thinking": [
+        {
+          "k": "steps",
+          "t": "Trust the verified sheet. Do not re-invent collections, SDE, or asking."
+        },
+        {
+          "k": "reasoning",
+          "t": "Thesis: clean solo GP, hygiene dip is a lever not a hole — only if the doctor answered it."
+        },
+        {
+          "k": "coding",
+          "t": "Write CIM fields + six marketing assets. Renderer stamps the PDF from the same JSON."
+        }
+      ],
+      "tools": [
+        "Read verified sheet",
+        "Draft 17 CIM fields",
+        "Draft listing blurbs",
+        "Queue PDF render"
+      ],
+      "tasks": [
+        {
+          "name": "Valuation narratives",
+          "meta": "from signed numbers",
+          "status": "done"
+        },
+        {
+          "name": "CIM body",
+          "meta": "thesis + growth levers",
+          "status": "done"
+        },
+        {
+          "name": "Listing assets",
+          "meta": "web, email, social",
+          "status": "done"
+        },
+        {
+          "name": "Broker sign-off",
+          "meta": "before anything leaves",
+          "status": "wait"
+        }
+      ],
+      "stream": "Cedar Ridge is a five-operatory solo general practice with a long-tenured owner and a patient base that still walks in on the name. Trailing collections $1.12M. SDE $385k on the recast the broker already signed. The hygiene dip is in the Q&A: two days uncovered after a retirement, now back to full — a growth lever, not a haircut, if you staff it. Asking is the broker's number. This copy does not invent one.",
+      "insights": [
+        {
+          "k": "Thesis",
+          "v": "Stable solo GP. Staffing the hygiene block is the first lever."
+        },
+        {
+          "k": "Stay human",
+          "v": "Asking price, multiples, and what goes to buyers under NDA — broker."
+        }
+      ],
+      "table": null,
+      "approval": null,
+      "rec": {
+        "t": "Broker reviews the CIM and blurbs before the PDF goes to Drive.",
+        "note": "The renderer is a stamp. Authorship is the skill. Approval is the product."
+      },
+      "artifacts": []
+    },
+    "escrow": {
+      "title": "Escrow Onboarding",
+      "subtitle": "Offer accepted. Same-day kickoff pack — generic TC and escrow, not a named vendor.",
+      "thinking": [
+        {
+          "k": "steps",
+          "t": "Pull parties, prices, EMDs, financing, and contingency math from the signed LOI."
+        },
+        {
+          "k": "reasoning",
+          "t": "Practice only. Buyer is not taking the building — keep the lease section in the intros."
+        },
+        {
+          "k": "steps",
+          "t": "Four artifacts: portal fields, escrow-open, buyer intro, seller intro. No addresses in the drafts."
+        }
+      ],
+      "tools": [
+        "Read LOI",
+        "Date math from acceptance",
+        "Commission from listing agreement",
+        "Draft four artifacts"
+      ],
+      "tasks": [
+        {
+          "name": "Extract deal",
+          "meta": "practice only · $980k",
+          "status": "done"
+        },
+        {
+          "name": "Contingency calendar",
+          "meta": "close + 60 days",
+          "status": "done"
+        },
+        {
+          "name": "Four drafts",
+          "meta": "portal + 3 emails",
+          "status": "done"
+        },
+        {
+          "name": "TC review",
+          "meta": "before send",
+          "status": "wait"
+        }
+      ],
+      "stream": "",
+      "insights": [],
+      "table": null,
+      "approval": {
+        "q": "TC reviews the four drafts, then portal + escrow go out together?",
+        "options": [
+          "Yes — queue both",
+          "Hold escrow email",
+          "Need listing agreement"
+        ],
+        "note": "Onboarding is the start of the command center. The desk then runs the deal through close."
+      },
+      "rec": null,
+      "artifacts": [
+        {
+          "k": "Portal entry",
+          "v": "Seller–Buyer, practice only, prices, EMD, contingency dates, commission TBD if the listing agreement isn't in the pack."
+        },
+        {
+          "k": "Escrow-open",
+          "v": "Draft to the firm's escrow partner. LOI attached. Counsel TBD."
+        },
+        {
+          "k": "Buyer intro",
+          "v": "EMD in three business days. Data room after it clears. Lease application in play — they're not buying the building."
+        },
+        {
+          "k": "Seller intro",
+          "v": "Escrow is opening. Lender will ask for more docs. Route the buyer through the TC, not the front desk."
+        }
+      ]
+    }
+  }
+}
