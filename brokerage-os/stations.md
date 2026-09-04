@@ -1,14 +1,14 @@
 # The fulfillment engine
 
-One file moving through a practice-brokerage desk. Five stations, in order, from the first public signal to the day escrow opens.
+One file moving through a practice-brokerage desk. Five stations, in order: content, seller origination, due diligence, CIM / listing, escrow.
+
+## Content
+
+The Content Engine runs on a rhythm. One idea or recorded session becomes the week's written work and the clips. The outline is approved before a draft exists.
 
 ## Seller origination
 
 The call list refreshes from public signals: license years, review velocity, succession. The broker grades a ranked list: call, watch, succession already underway. Someone says yes. The file exists.
-
-## Content
-
-The Content Engine runs on a rhythm while the list is being graded. One idea or recorded session becomes the week's written work and the clips. The outline is approved before a draft exists.
 
 ## Due diligence
 
