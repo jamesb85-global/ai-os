@@ -1,18 +1,9 @@
-# ICP scoring
+# ICP
 
-Score a listing against a founder-led ICP. Human still picks. Drafting only happens after a keep.
+Scoring is a policy layer. If you don't write it down, the hunt agent will invent a taste.
 
-## ICP (public)
+The ICP here is founder-led firms where an OS install changes the week: the founder is still the routing layer, the team is small enough that a packet actually lands, and they want drafts and lists — not a robot that posts and sends. A vertical-only identity as the public face of the firm is a skip. That work belongs in a different room.
 
-| Signal | Weight |
-|---|---|
-| Founder still is the routing layer | high |
-| Team small enough that an OS install changes the week | high |
-| They want drafts and packets, not a robot that posts or sends | high |
-| Vertical-only identity as the firm's public face | skip |
+Each hunt card gets a fit (0–5), a why, and a next action: keep, skip, or ask the principal. Hunt doesn't write a person name into the score. A 5 is not a send. A 5 is worth a human gate.
 
-## Output
-
-Each card gets `fit` (0–5), `why`, and `next` (`keep`, `skip`, `ask James`). Hunt never writes a person name into the score file.
-
-A 5 is not a send. A 5 is "worth James's eyes."
+That's how you keep a multi-agent GTM system from turning into spray-and-pray with extra steps. The model ranks. The human promotes. Apply doesn't run until keep exists.

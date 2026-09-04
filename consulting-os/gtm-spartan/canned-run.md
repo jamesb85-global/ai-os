@@ -1,21 +1,13 @@
-# Canned run
+# A run
 
-Fictional. Not a live hunt.
+Here's the loop on a sample week. No live names. The point is the promotions.
 
-## Hunt cards (sample)
+**Hunt** returns three cards. A 12-person services firm where the founder is still the routing layer — that's a fit: an OS install would change their week. An inbound that only says "we want a weekly packet" — too vague to staff, skip. A referral that wants drafts, not a robot on LinkedIn — keep. Patterns, not people.
 
-1. **Ops install for a 12-person services firm** — founder still is the routing layer. Fit: Audit → Install → Operate. Source kind: board.
-2. **Weekly packet instead of Slack noise** — hub-and-spoke ask, no named buyer. Source kind: inbound.
-3. **Content that never auto-posts** — they want drafts, not a robot on LinkedIn. Source kind: referral.
+**Human gate.** Keep the services firm. Keep the drafts-only seat. Skip the vague inbound. Now — and only now — list is allowed to run.
 
-## Keep / skip (James)
+**List** writes two rows into one working file. Prep notes, not a dump: headcount, founder still acting as chief of staff, content seat that must not auto-post. No email addresses in git. The working file is live. The OS doesn't fork a second copy.
 
-- Keep 1, keep 3, skip 2 (too vague to staff).
+**Apply** drafts one application into the queue. Their pain in the first line. The install in one sentence. The ask is a call. Submit is still a click.
 
-## List
-
-Two rows in a working file. No emails in git. Prep notes only: "services firm, 12 people, founder is still CoS" and "drafts-only content seat."
-
-## Apply
-
-One draft sitting in a queue. Subject line and body ready. Submit = human click. This folder does not contain the live draft.
+That's a GTM run: retrieve, score, wait, prep, draft, wait. Orchestration with brakes. The founder didn't hunt for three hours, and nothing sent itself.

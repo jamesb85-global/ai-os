@@ -1,26 +1,25 @@
-# Adapter
+# Adapter contract
 
-Public contract. Implementations stay private.
+Hunt, list, and apply are stations. The **adapter** is how a source plugs into those stations without rewriting the OS.
+
+That's the architecture move. Upwork, a referral inbox, an inbound form — each is a different wire. The loop stays the same: fetch cards, wait for a human keep, prep a list, draft, wait for a human send.
 
 ```text
 HuntAdapter
   fetch_cards() -> list[Card]
-  # Card: title, why_it_fit, source_kind, no person names
+  # pattern, why it fits, source kind — no person names
 
 ListAdapter
   from_keeps(keeps) -> WorkingList
-  # One live file. Hub does not upload a competing copy.
+  # one live file; the hub doesn't fork a second copy
 
 ApplyAdapter
   draft(listing) -> Draft
-  # Never submit. Human clicks send.
+  # queue only. never submit.
 ```
 
-## Rules
+**Source kind** is a category (`board`, `referral`, `inbound`), not a product name. Implementations are vendor APIs from the account's connected tools. Secrets don't live in the prompt.
 
-- Vendor APIs from the account's connected tools. No pasted secrets.
-- No HTML scrape of a marketplace.
-- Hunt does not promote to a worked list. James marks keep/skip first.
-- Apply drafts may sit in a queue. They do not auto-send.
+**Promotion rules are part of the contract.** Hunt cannot call list. List cannot call apply on a skip. Apply cannot POST. Those aren't manners. They're the control plane for a go-to-market graph that would otherwise optimize for volume.
 
-Source kind is a category (`board`, `referral`, `inbound`), not a product name.
+Swap an adapter when the channel changes. Don't swap the loop.

@@ -1,5 +1,5 @@
 {
-  "practice": "Cedar Ridge Family Dentistry",
+  "practice": "Sample practice",
   "invented": true,
   "walk": [
     "content",
@@ -11,7 +11,7 @@
   "traces": {
     "content": {
       "title": "Content Engine",
-      "subtitle": "Cedar Ridge is already a listing. This is the desk's weekly seller-side rhythm — same week, same voice.",
+      "subtitle": "Sample practice is already a listing. This is the desk's weekly seller-side rhythm — same week, same voice.",
       "thinking": [
         {
           "k": "steps",
@@ -58,7 +58,7 @@
           "Rewrite the angle",
           "Skip this week"
         ],
-        "note": "The system absorbs the rhythm. The point of view stays human."
+        "note": "The system absorbs the rhythm. Voice stays with the principal — human-in-the-loop before anything publishes."
       },
       "rec": null,
       "artifacts": []
@@ -179,7 +179,7 @@
         ],
         "rows": [
           [
-            "Cedar Ridge Family Dentistry",
+            "Sample practice",
             "1988",
             "11/mo",
             "Yes",
@@ -216,20 +216,20 @@
         ]
       },
       "approval": {
-        "q": "Keep Cedar Ridge as Call first? No successor on the site, velocity is in band.",
+        "q": "Keep Sample practice as Call first? No successor on the site, velocity is in band.",
         "options": [
           "Call first",
           "Watch",
           "Succession underway"
         ],
-        "note": "The list is a suggestion. Who you actually want as a client stays human."
+        "note": "The list is a suggestion. Who you actually want as a client is human-in-the-loop."
       },
       "rec": null,
       "artifacts": []
     },
     "diligence": {
       "title": "Due Diligence",
-      "subtitle": "Cedar Ridge Family Dentistry — sample P&L, tax return, lease. The agent never decides.",
+      "subtitle": "Sample practice — sample P&L, tax return, lease. The agent never decides.",
       "thinking": [
         {
           "k": "steps",
@@ -349,7 +349,7 @@
           "status": "wait"
         }
       ],
-      "stream": "Cedar Ridge is a five-operatory solo general practice with a long-tenured owner and a patient base that still walks in on the name. Trailing collections $1.12M. SDE $385k on the recast the broker already signed. The hygiene dip is in the Q&A: two days uncovered after a retirement, now back to full — a growth lever, not a haircut, if you staff it. Asking is the broker's number. This copy does not invent one.",
+      "stream": "Sample practice is a five-operatory solo general practice with a long-tenured owner and a patient base that still walks in on the name. Trailing collections $1.12M. SDE $385k on the recast the broker already signed. The hygiene dip is in the Q&A: two days uncovered after a retirement, now back to full — a growth lever, not a haircut, if you staff it. Asking is the broker's number. This copy does not invent one.",
       "insights": [
         {
           "k": "Thesis",

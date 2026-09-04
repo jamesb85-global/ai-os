@@ -1,25 +1,41 @@
-# Five stations
+# The fulfillment engine
 
-Public labels. Internal filenames stay off the page.
+This is one file moving through a practice-brokerage desk.
 
-## 1. Content Engine
+Not a dashboard. Not a chatbot that "helps with tasks." Five stations, in order, from the first public signal to the day escrow opens.
 
-Written rhythm (outline → blog → atomize → newsletter) plus webinar → clips + written package. Principal approves twice. Same voice file for both beats.
+## A listing finds the desk
 
-## 2. Seller Origination
+The call list refreshes. License years, review velocity, a successor on the website or not. The broker doesn't hunt through a roster. They grade a ranked list: call, watch, succession already underway.
 
-Public license + review velocity + succession flags → ranked call list. Mechanical monthly refresh; a human grades HOT vs Succession Underway. Demo is a canned table of fictional practices.
+Someone says yes. The file exists.
 
-## 3. Due Diligence
+## The market already knows the firm
 
-Source docs in. Findings, add-backs, red flags, questions for the doctor. Human decides. The page says Due Diligence.
+While that list is being graded, the Content Engine is already on a rhythm. The principal isn't drafting LinkedIn from scratch on Sunday night. One idea — or one recorded session — becomes the week's written work and the clips. The voice is theirs. The outline got approved before a draft existed.
 
-## 4. CIM / Listing
+Sellers in market hear the firm before the firm calls them.
 
-Verified numbers → valuation narratives + CIM copy + listing marketing → branded PDF. Broker signs off. Renderer and authorship are one station.
+## The books get read
 
-## 5. Escrow onboarding
+Source pack lands: P&L, tax returns, lease, payroll. Due Diligence reads them the way a careful associate would — provider map, add-backs only where the document supports them, red flags, questions for the doctor.
 
-Signed LOI → portal fields, escrow-open draft, buyer intro, seller intro. Same day. The desk then runs the deal through close; that fuller command center is not a sixth node here.
+It doesn't invent a price. It doesn't smooth a gap between the recap and the invoices. The broker gets findings. Then they decide if the file moves.
 
-Buyer Engine is not built. Do not demo it. If asked: later expansion after the desk OS is live.
+## The listing gets written
+
+Numbers are already signed. CIM / Listing writes the confidential information memorandum, the listing copy, the branded PDF — thesis, levers, marketing assets — from that sheet. One source. One render.
+
+Asking price is still the broker's number. What buyers see under NDA is still the broker's call. The writing is done.
+
+## Escrow opens the same day
+
+The LOI is signed. Escrow onboarding pulls parties, price, earnest money, financing, contingency dates. Four drafts: portal entry, escrow-open, buyer intro, seller intro.
+
+The transaction coordinator reads them. Then they go out. The deal is live that afternoon, not next week when someone finds time to type the emails.
+
+---
+
+That's the fulfillment engine. Find. Speak. Read. Write. Open.
+
+The broker is still the principal. They're just not the bottleneck.

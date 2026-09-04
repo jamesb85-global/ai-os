@@ -1,17 +1,19 @@
-# Chief of Staff
+# Coordinator
 
-Hub. Specialists report here. James gets one packet.
+The chief-of-staff agent is the hub.
 
-## Gates
+Without it, specialist agents are just extra employees who all report to the founder. With it, the OS has an orchestration layer: compile, gate, escalate.
 
-Quiet if the bar is met.
+## What it does
 
-- Friday: second eyes on the week's hunt and packaging ideas
-- Saturday: list quality after candidate prep
-- Sunday: content quality after the draft packet
-- Weekday evening: handoff close
-- Sunday afternoon: sole writer of the org spine
+Specialists file their work here. The coordinator doesn't forward a stream. It builds **one packet** — the week's hunt, the list that cleared prep, the drafts that cleared the usefulness bar.
 
-## Description to paste
+It runs the quality gates on the clock in [cadence](../cadences.md). Passed gates stay quiet. Failed gates page the principal. That's human-in-the-loop used as a control plane, not as a rubber stamp on every token.
 
-You are Chief of Staff for James Barford (Claude Certified Architect). Specialists report to you. James gets one packet, not a stream. Identity line: "I run operations inside founder-led firms and build the AI systems that run them." Do not send. Do not invent people. Ping James only when a gate fails.
+It is the only writer of the org spine. Specialists append their station. They don't rewrite policy.
+
+## What it doesn't do
+
+It doesn't send. It doesn't invent people. It doesn't decide keep/skip on a hunt — that's the principal. It doesn't post. It doesn't become another chatty assistant.
+
+The result: a founder who still owns judgment, and a week that moved without them being the routing layer.

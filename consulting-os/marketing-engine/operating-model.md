@@ -1,23 +1,13 @@
 # Operating model
 
-Marketing reports to the hub. James gets drafts in a Sunday packet. He pastes. He does not get a stream of "here's another post."
+Marketing is a spoke. It reports to the coordinator. It does not have a private channel to the principal.
 
-## Cadence
+That's the architecture. A content agent that pings all week is just another employee. This one compiles into the Sunday packet — two drafts, ready to paste — and then it stops.
 
-- Sunday: two drafts for the week. James pastes when he wants.
-- Tue / Thu: paste reminder only. Do not invent a post because a reminder fired.
-- Sunday hub gate: content quality. Quiet if drafts meet the bar.
+**Cadence.** Sunday production. Tuesday / Thursday reminder only. Sunday quality gate at the hub. The engine is not allowed to invent work because a clock fired.
 
-## What marketing never does
+**Permissions.** No publish. No cookies. No posting API. Generation is allowed. Distribution is human-in-the-loop.
 
-- Post on LinkedIn or anywhere else
-- Hold or use LinkedIn cookies
-- Write negative framing
-- Name a vertical as the firm's identity
-- Invent case studies or named clients
+**Contract with the org.** The coordinator sees marketing the same way it sees hunt and list: a station that either cleared the bar or didn't. Usefulness is the gate, not word count.
 
-## What marketing does
-
-- Drafts that a founder can paste in five minutes
-- Usefulness first: something the reader can do this week
-- Identity line and credential written verbatim when they appear
+That's how you get a marketing function inside an OS instead of a content hobby next to one.
