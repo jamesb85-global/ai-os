@@ -1,8 +1,6 @@
 # The harness
 
-A backtest is a simulation with a conflict of interest. The author wants it to work. The harness exists to make that expensive.
-
-Old setups hid a different bug in every notebook: zero-PnL exits, higher-timeframe lookahead, fees that never hit equity. Signal OS centralizes the physics. Strategies talk. One engine settles. Gates grade.
+Strategies emit signals. One engine settles. Gates grade.
 
 ## Architecture
 
@@ -18,11 +16,11 @@ Old setups hid a different bug in every notebook: zero-PnL exits, higher-timefra
 
 **Lookahead.** Recompute on a prefix, then on that prefix plus future bars. Any change is FAIL. A planted `shift(-n)` bug must fail; a correctly lagged higher-timeframe feature must pass.
 
-**Accounting.** Every exit has a PnL. Trade PnL plus funding has to match the equity delta. If the story and the ledger disagree, the backtest is theater.
+**Accounting.** Every exit has a PnL. Trade PnL plus funding has to match the equity delta.
 
-**Costs.** Commission should land in a band implied by maker/taker. Slippage is a conservative model, not a promise of fill quality. Funding in this snapshot is a flat placeholder — longs pay, shorts receive — not historical rates. Don't deploy on that fiction.
+**Costs.** Commission should land in a band implied by maker/taker. Slippage is a conservative model. Funding in this snapshot is a flat placeholder — longs pay, shorts receive — not historical rates. Don't deploy on that fiction.
 
-**Statistics.** Under 30 trades is FAIL; under 50 is a warning. Walk-forward splits the trade list in time: in-sample up and out-of-sample down is FAIL. Profit factor above 3 warns; above 5 fails. Those tripwires exist because "too good" is usually a bug.
+**Statistics.** Under 30 trades is FAIL; under 50 is a warning. Walk-forward splits the trade list in time: in-sample up and out-of-sample down is FAIL. Profit factor above 3 warns; above 5 fails.
 
 **Drawdown.** If the venue's model blows the account, FAIL. GROSS and Exchange are margin-liquidation only.
 

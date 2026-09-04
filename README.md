@@ -1,17 +1,11 @@
 # AIOS
 
-Three AI operating systems. Same architect.
+Three AI operating systems: a consulting firm OS, a backtesting harness, and a practice-brokerage desk.
 
-A consulting firm that runs itself. A harness that won't let an investment strategy lie. A brokerage desk that isn't bottlenecked on one head.
-
-**I run operations inside founder-led firms and build the AI systems that run them.**
-
-Claude Certified Architect. [jamesbarfordai.com](https://jamesbarfordai.com)
-
-| System | What you're looking at |
+| System | What it is |
 |---|---|
-| [consulting-os](consulting-os/) | The consulting practice as an operating system — organization, marketing, go-to-market |
-| [signal-os](signal-os/) | A backtesting harness for investment strategies. Signals in. An honest grade out. |
+| [consulting-os](consulting-os/) | Org, marketing, and go-to-market as one system |
+| [signal-os](signal-os/) | A backtesting harness for investment strategies |
 | [brokerage-os](brokerage-os/) | A fulfillment engine for a practice-brokerage desk |
 
-This tree is a rewritten snapshot, not a mirror of the private operating repos. Reach out if you want to understand more, ask questions, or see a demo.
+This is a rewritten snapshot of the method, not the private operating repos.

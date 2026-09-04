@@ -1,26 +1,20 @@
 # Org engine
 
-Without an org layer, every specialist agent is another inbox.
-
-That's the pain. You add a researcher, a writer, a hunter — and the founder now has three streams to read instead of one job to do. "AI" made the week louder.
-
-The org engine is hub-and-spoke orchestration. Specialist agents don't talk to the principal. They report to a coordinator. The coordinator compiles one packet, runs quality gates, and only escalates when a gate fails.
-
-That's operational leverage: more work moving, same attention budget.
+Hub-and-spoke orchestration for Consulting OS. Specialist agents report to a coordinator. The coordinator compiles one packet, runs quality gates, and only escalates when a gate fails.
 
 ## How it works
 
-The **coordinator** (chief of staff) owns the spine — the rules, the cadence, the org chart, what counts as source of truth. Specialists don't rewrite that. They append their station. Separation of concerns: policy at the hub, execution at the spokes.
+The **coordinator** (chief of staff) owns the spine — the rules, the cadence, the org chart, what counts as source of truth. Specialists don't rewrite that. They append their station.
 
-**Human-in-the-loop** sits above the hub. The coordinator doesn't ping the principal because something finished. It pings when something failed the bar — content that isn't useful, a list that isn't ready, a hunt that tried to become names too early.
+**Human-in-the-loop** sits above the hub. The coordinator pings the principal when something failed the bar — content that isn't useful, a list that isn't ready, a hunt that tried to become names too early.
 
 ## The week
 
-Hunt runs on weekday mornings. Cards, not a worked list. Friday, the principal marks keep or skip. Then list-prep is allowed to run.
+Hunt runs on weekday mornings. Cards, not a worked list. Friday, the principal marks keep or skip. Then list-prep can run.
 
-Sunday, marketing delivers two drafts. Midweek is a reminder to paste, not a license to invent a post.
+Sunday, marketing delivers two drafts. Midweek is a reminder to paste, not a new post.
 
-The hub gates the week in quiet: Friday second eyes, Saturday list quality, Sunday content quality. If the bar is met, nobody gets a Slack novel. Weekday evening, the coordinator closes the handoff. Sunday, it writes the transfer pack — the only writer of the spine.
+The hub gates Friday second eyes, Saturday list quality, and Sunday content quality. Weekday evening, the coordinator closes the handoff. Sunday, it writes the transfer pack — the only writer of the spine.
 
 ## Architecture
 
